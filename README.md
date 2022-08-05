@@ -1,5 +1,4 @@
 # IMAGE-CLASSIFICATION-USING-PYTHON-FLASK-SERVER-
-OpenCV  numpy  matplotlib flask server python 
 Image classification is the processing of computer vision but curved by a machine. The 
 machine is programmed to act like a human being. The Data is used to program the 
 machine. In this study, data was retrieved from Fatkun Google Chrome. Built a model and 
